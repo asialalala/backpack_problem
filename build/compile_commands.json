@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/asialalala/Programy/C++/problem_plecakowy/build",
+  "command": "/usr/local/bin/g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/problem_plecakowy.dir/src/main.cpp.o -c /Users/asialalala/Programy/C++/problem_plecakowy/src/main.cpp",
+  "file": "/Users/asialalala/Programy/C++/problem_plecakowy/src/main.cpp"
+},
+{
+  "directory": "/Users/asialalala/Programy/C++/problem_plecakowy/build",
+  "command": "/usr/local/bin/g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/problem_plecakowy.dir/src/item.cpp.o -c /Users/asialalala/Programy/C++/problem_plecakowy/src/item.cpp",
+  "file": "/Users/asialalala/Programy/C++/problem_plecakowy/src/item.cpp"
+},
+{
+  "directory": "/Users/asialalala/Programy/C++/problem_plecakowy/build",
+  "command": "/usr/local/bin/g++-11   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/problem_plecakowy.dir/src/backpack.cpp.o -c /Users/asialalala/Programy/C++/problem_plecakowy/src/backpack.cpp",
+  "file": "/Users/asialalala/Programy/C++/problem_plecakowy/src/backpack.cpp"
+}
+]

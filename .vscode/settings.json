@@ -1,0 +1,8 @@
+{
+    "cmake.debugConfig": {
+        "miDebuggerPath": "usr/local/bin/gdb"
+    },
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}

@@ -1,0 +1,1 @@
+/usr/local/bin/g++-11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/problem_plecakowy.dir/src/main.cpp.o CMakeFiles/problem_plecakowy.dir/src/item.cpp.o CMakeFiles/problem_plecakowy.dir/src/backpack.cpp.o -o problem_plecakowy 
