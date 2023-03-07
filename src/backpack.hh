@@ -5,14 +5,13 @@
 class backpack
 {
 private:
-    /* data */
+    /* data */ 
     float Space;
 public:
     backpack(float space);
     ~backpack();
     float space();
 };
-
 
 
 #endif

@@ -10,6 +10,5 @@ item earings(1,100);
 item tv(15,6100);
 item iphone(9, 1300);
 item bike(30,2000);
+std::cout << tv.number;
 }
-
-

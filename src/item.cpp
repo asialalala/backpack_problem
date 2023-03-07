@@ -1,9 +1,12 @@
 #include "item.hh"
 
+int item::number = 0;
+
 item::item(float weight, float cost)
 {
     Weight = weight;
     Cost = cost;
+    ++number;
 }
 
 item::~item()

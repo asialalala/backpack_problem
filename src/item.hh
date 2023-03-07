@@ -9,6 +9,7 @@ private:
     float Weight;
     float Cost;
 public:
+    static int number;
     item(float weight, float cost);
     ~item();
     float weight();
