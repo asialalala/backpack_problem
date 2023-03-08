@@ -3,6 +3,25 @@
         "miDebuggerPath": "usr/local/bin/gdb"
     },
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "locale": "cpp",
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "exception": "cpp",
+        "random": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp"
     }
 }

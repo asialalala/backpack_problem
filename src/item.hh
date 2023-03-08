@@ -8,12 +8,13 @@ private:
     /* data */
     float Weight;
     float Cost;
+    static int Number;
 public:
-    static int number;
     item(float weight, float cost);
     ~item();
-    float weight();
-    float cost();
+    const float weight();
+    const float cost();
+    static int number();
 };
 
 #endif

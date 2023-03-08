@@ -1,24 +1,29 @@
 #include "item.hh"
 
-int item::number = 0;
+int item::Number = 0;
 
 item::item(float weight, float cost)
 {
     Weight = weight;
     Cost = cost;
-    ++number;
+    ++Number;
 }
 
 item::~item()
 {
 }
 
-float item::weight()
+const float item::weight()
 {
     return Weight;
 }
 
-float item::cost()
+const float item::cost()
 {
     return Cost;
+}
+
+int item::number()
+{
+    return Number;
 }
