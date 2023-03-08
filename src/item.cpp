@@ -2,6 +2,12 @@
 
 int item::Number = 0;
 
+item::item()
+{
+    Weight = 0;
+    Cost = 0;
+}
+
 item::item(float weight, float cost)
 {
     Weight = weight;

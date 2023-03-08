@@ -10,6 +10,7 @@ private:
     float Cost;
     static int Number;
 public:
+    item();
     item(float weight, float cost);
     ~item();
     const float weight();
